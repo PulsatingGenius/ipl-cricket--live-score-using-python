@@ -3,5 +3,5 @@
 Requirements
 - pip install sports.py
 
--pip install py-notifier
+- pip install py-notifier
 
